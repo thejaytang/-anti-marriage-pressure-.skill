@@ -59,6 +59,62 @@ Use $anti-marriage-pressure to draft a short English reply to:
 "When are you getting married? Your parents must be worried."
 ```
 
+## Before And After Examples
+
+### Example 1: Dinner Table Marriage Pressure
+
+Prompt:
+
+> "You're getting older. Why aren't you married yet? Your family must be worried."
+
+Typical plain-model answer:
+
+> "I understand that my family is concerned, and I know they mean well. I will think carefully about my life plans and hope everyone can give me some time."
+
+With the skill, defense mode:
+
+> "I know you're concerned, but I will make that decision myself, and I am not discussing it today."
+
+With the skill, attack mode:
+
+> "Your urgency is your emotion, not my deadline. I am not treating marriage like a task I owe other people."
+
+### Example 2: Comparison Pressure
+
+Prompt:
+
+> "Other people's kids are already in school. Why are you still not settled?"
+
+Typical plain-model answer:
+
+> "Everyone moves at a different pace in life, and I believe the right person will come at the right time."
+
+With the skill, defense mode:
+
+> "Other people's timelines are not my standard. That comparison is not helpful to me."
+
+With the skill, attack mode:
+
+> "Other people's marriages are their answer sheets, not a template for me to copy. Using comparison as pressure is not advice. It is overreach."
+
+### Example 3: Fertility Pressure After Marriage
+
+Prompt:
+
+> "You're already married. When are you having kids? It'll be too late if you wait."
+
+Typical plain-model answer:
+
+> "Having children is an important decision, and we will think about it based on our own situation. Thank you for your concern."
+
+With the skill, defense mode:
+
+> "Family planning is private, and I am not answering that question. Please stop asking."
+
+With the skill, attack mode:
+
+> "Treating someone else's reproductive plan like a public topic is already intrusive. Your concern does not give you permission to question me."
+
 ## Default Output Shape
 
 Unless the user asks otherwise, the skill returns:
