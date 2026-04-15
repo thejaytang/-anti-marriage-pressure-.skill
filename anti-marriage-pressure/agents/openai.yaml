@@ -1,0 +1,7 @@
+interface:
+  display_name: "Anti Marriage Pressure"
+  short_description: "Deflect marriage pressure with firm boundaries"
+  default_prompt: "Use $anti-marriage-pressure to draft a calm but firm reply to marriage pressure."
+
+policy:
+  allow_implicit_invocation: false
