@@ -19,8 +19,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "我没把婚姻当任务冲业绩，所以不用按别人的进度交差。"
-- Alternative: "你着急是你的情绪，不是我的截止日期。"
+- Primary: "你们这么着急，不知道的还以为这婚是你们本人要去结、日子也是你们替我过。可惜都不是。"
+- Alternative: "我没把婚姻当任务冲业绩，你们也不用把催我当成家庭 KPI 复盘会。"
 - Closer: "如果接下来还是这个话题，我就先不参与了。"
 
 ## 2. Relative Comparison
@@ -38,8 +38,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "别人结婚是别人交的人生答卷，不是给我抄的标准答案。"
-- Alternative: "你一直拿别人当模板，更像是在满足你的焦虑，不是在帮我。"
+- Primary: "别人孩子上小学，怎么，准备顺手给我发张落后通知书？你这么爱替别人写人生汇报，不如先把你自己的项目盘明白。"
+- Alternative: "你一直拿别人当模板，更像是在替自己的焦虑找观众，不是在给我建议。"
 - Closer: "如果只能靠比较推进话题，那这个话题没必要继续。"
 
 ## 3. Matchmaking Pressure
@@ -57,8 +57,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "婚姻不是清库存，我不会因为别人催得急就随便上架自己。"
-- Alternative: "你可以热心，但不能代替我做选择。"
+- Primary: "婚姻不是清库存，我也不是你手里待处理的项目。热心过头，不叫帮忙，叫把手伸得太长。"
+- Alternative: "你可以爱安排，但别把替我做主包装得像在帮我省事。"
 - Closer: "再替我乱安排，我只会统一拒绝。"
 
 ## 4. Fertility Pressure After Marriage
@@ -76,8 +76,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "把别人的生育安排当公共议题，本身就很越界。"
-- Alternative: "你担心时间线，不代表你有提问权限。"
+- Primary: "你对别人生育时间线这么上心，不知道的还以为你准备替我生、替我养、再顺手替我负责。可惜你一样都不负责。"
+- Alternative: "关心不是权限，盯着别人的子宫和时间表，只会显得你边界感很差。"
 - Closer: "这个话题如果停不下来，我就直接结束对话。"
 
 ## 5. Age Pressure And Panic Framing
@@ -95,8 +95,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "把恐惧包装成建议，不会让建议显得更高明。"
-- Alternative: "如果一段婚姻要靠恐吓推进，那它本身就不值得。"
+- Primary: "把恐惧包装成建议，不会让建议显得高明，只会让人看出来你特别爱替别人制造焦虑。"
+- Alternative: "如果一段婚姻要靠恐吓推进，那它听起来更像风险提示，不像什么值得羡慕的人生安排。"
 - Closer: "拿年龄吓人这套，对我没用。"
 
 ## 6. Career-Success But Unmarried
@@ -114,8 +114,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "把婚姻当万能评价指标，说明你的评价体系太单薄。"
-- Alternative: "你可以把婚姻当唯一 KPI，我不会。"
+- Primary: "把婚姻当万能评价指标，说明你的评价体系确实挺省事，省得连脑子都不用多动。"
+- Alternative: "你可以把婚姻当唯一 KPI，那是你的评分表，不是我的人生报表。我没义务按你的表演。"
 - Closer: "如果非要拿婚姻做总评分，那这场讨论没有质量。"
 
 ## 7. Friends Or Group Teasing
@@ -133,8 +133,8 @@ Defense mode:
 
 Attack mode:
 
-- Primary: "你要是只能靠催婚玩梗，说明今天的段子库存不太够。"
-- Alternative: "我单身不是节目素材，你也不用抢主持位。"
+- Primary: "你要是只能靠催婚玩梗，说明今天的段子库存确实见底了。"
+- Alternative: "我单身不是节目素材，你这么卖力起哄，只会显得梗比人还旧，场子也比笑点更尴尬。"
 - Closer: "再继续我就默认你只会这一套。"
 
 ## 8. English Examples
@@ -142,19 +142,19 @@ Attack mode:
 Dinner table:
 
 - Defense: "I am not discussing my marriage timeline today."
-- Stronger: "Your urgency is not my deadline."
+- Stronger: "You sound more invested in my wedding than I ever agreed to be. That is still not your decision."
 - Closer: "Let's move to another topic."
 
 Comparison pressure:
 
 - Defense: "Other people's timelines are not my template."
-- Stronger: "Comparison is not advice."
+- Stronger: "If comparison is the whole argument, the argument is embarrassingly thin."
 - Closer: "I am not continuing this conversation."
 
 Fertility pressure:
 
 - Defense: "That is private and not up for discussion."
-- Stronger: "Concern does not create permission."
+- Stronger: "Concern does not create permission, and this is already intrusive for someone who will not be carrying or raising the child."
 - Closer: "Please stop asking."
 
 ## 9. Safety Override Prompts

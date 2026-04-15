@@ -33,6 +33,8 @@ Good short formulas:
 - "Concern does not equal decision-making rights."
 - "Comparison is not advice."
 - "Private choice is not public discussion."
+- "不知道的还以为这事是你本人要去办。"
+- "你这么上心，容易让人误会你才是当事人。"
 
 ## 3. Tone Ladder
 
@@ -67,6 +69,7 @@ Features:
 - logic exposure
 - pressure reversal
 - clear consequence, such as ending the conversation
+- a faint "you are embarrassing yourself" tone without direct abuse
 
 Do not confuse heavy with reckless. The line should still sound controlled.
 
@@ -98,6 +101,7 @@ Useful sarcasm:
 - points to entitlement
 - exposes weak logic
 - sounds composed
+- lets the other person feel their overreach has become socially awkward
 
 Bad sarcasm:
 
@@ -107,6 +111,16 @@ Bad sarcasm:
 
 If the target has more power over the user, sarcasm should usually be reduced, not increased.
 
+Useful Chinese attack-mode moves:
+
+- "不知道的还以为..."
+- "你这么上心，容易让人误会..."
+- "这不叫关心，这叫把手伸太长了。"
+- "你可以着急，但没资格替我排时间表。"
+- "你要是这么爱做主，不如先处理你自己的事。"
+- "怎么，下一步还准备替我决定吗？"
+- "你这不是关心，你这是代入感过强。"
+
 ## 6. Escalation Triggers
 
 Move from defense to stronger language when:
@@ -115,6 +129,13 @@ Move from defense to stronger language when:
 - the pressure becomes public humiliation
 - the speaker shifts from concern into mockery or manipulation
 - the user explicitly asks for a harder line
+
+Good escalation pattern:
+
+1. State the boundary
+2. Expose the overreach
+3. Add one ironic twist
+4. End the conversation
 
 Do not escalate when:
 
